@@ -49,6 +49,10 @@ header.masterhead {
     opacity: 0.5;
 }
 
+.portfolio-control {
+    margin-bottom: 25px;
+}
+
 .page-section h2.section-heading {
     font-size: 40px;
     margin-top: 0;
@@ -87,5 +91,3 @@ header.masterhead {
 .social-buttons {
     margin-top: 15px;
 }
-
-@media 
